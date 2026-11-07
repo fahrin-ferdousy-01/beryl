@@ -60,3 +60,7 @@ PROMPT.md              the prompt
 - Beryl, the shop and the prices are made up. This is a design study, with no link to any company called Beryl.
 
 Made by Samnang Aing. I share builds like this as I go on [X](https://x.com/SammmAing) and [Threads](https://www.threads.com/@samnang.aing).
+
+---
+
+Imported from [Sam1983Aing/beryl](https://github.com/Sam1983Aing/beryl) — original code and attribution preserved.
